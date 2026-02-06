@@ -21,12 +21,6 @@ A modern, full-stack shopping list application featuring **real-time synchroniza
 
 ---
 
-## 🎬 Demo
-
-[🎥 Watch Demo Video](link-to-video) | [🚀 Try Live Demo](link-to-demo)
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend**
